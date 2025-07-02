@@ -1,0 +1,14 @@
+[project]
+name = "Save_To_GDrive"
+description = "A ComfyUI node that lets you save your images and videos directly to Google Drive through Google's free API service."
+version = "1.0.0"
+license = {text = "MIT License"}
+
+[project.urls]
+Repository = "https://github.com/Creepybits/ComfyUI-Save_To_GDrive"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "creepybits"
+DisplayName = "Creepybits_Save_To_GDrive"
+Icon = "https://github.com/Creepybits/ComfyUI-Creepy_nodes/blob/a392f0cbc076a66b261b51e315fd5b5d356c2cf2/assets/cpbt.png"
