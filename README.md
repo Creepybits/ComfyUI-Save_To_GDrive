@@ -17,7 +17,7 @@ The node will create folders you specify in the node itself if they aren't alrea
 
 **Folder structure**: Rootfolder/subfolder/subfolder  
 
-**Filename prefix**: All images with have the same name, so if the prefix is for example "IMG" all your saved images will be named IMG.png (alternatively IMG.jpeg or IMG.webp)  
+**Filename prefix**: All images will have the same name, so if the prefix is for example "IMG" all your saved images will be named IMG.png (alternatively IMG.jpeg or IMG.webp). When you send a batch of several images, they are numbered: IMG_001.png, IMG_002.png and so on.  
 
 **File Format**: Format available is PNG, JPEG and WEBP  
 
