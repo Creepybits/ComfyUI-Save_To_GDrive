@@ -1,11 +1,6 @@
-import os
-import sys
 from .SaveImageToGoogleDrive import NODE_CLASS_MAPPINGS as nodes_NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS as nodes_NODE_DISPLAY_NAME_MAPPINGS
 
-__version__ = "1.1.1"
-
-# Define the web directory for ComfyUI to find our JavaScript files
-WEB_DIRECTORY = "./web"
+__version__ = "1.2.0"
 
 NODE_CLASS_MAPPINGS = {
     **nodes_NODE_CLASS_MAPPINGS,
@@ -15,4 +10,4 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     **nodes_NODE_DISPLAY_NAME_MAPPINGS,
 }
 
-__all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS', 'WEB_DIRECTORY']
+__all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS']

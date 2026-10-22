@@ -1,7 +1,7 @@
 [project]
 name = "Save_To_GDrive"
 description = "A ComfyUI node that lets you save your images and videos directly to Google Drive through Google's free API service."
-version = "1.0.0"
+version = "1.2.0"
 license = {text = "MIT License"}
 
 [project.urls]
